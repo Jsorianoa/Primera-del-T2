@@ -1,0 +1,15 @@
+
+mat-toolbar{
+    max-width: 100%;
+    margin-bottom: 10px;
+    background-color: #793955;
+    display: flex;
+    justify-content: space-between;
+}
+
+mat-toolbar span{
+    color:white;
+}
+span{
+    font-size: 30px;
+}
